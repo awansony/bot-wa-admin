@@ -14,5 +14,18 @@
     "antiviewonce": false,
     "autosave": false,
     "autobackup": false
+  },
+  "120363405716724158@g.us": {
+    "antilink": false,
+    "antibadword": false,
+    "antidelete": false,
+    "antiviewonce": false,
+    "autosave": false,
+    "autobackup": false,
+    "autokick": false,
+    "autopromote": false,
+    "autodemote": false,
+    "autoclear": false,
+    "autoreset": false
   }
 }
